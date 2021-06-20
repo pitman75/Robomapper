@@ -1,0 +1,8 @@
+core_cm7.h:1902:22:__NVIC_EnableIRQ	16	static
+fsl_common.h:747:28:EnableIRQ	24	static
+fsl_pit.h:159:20:PIT_EnableInterrupts	24	static
+fsl_pit.h:246:20:PIT_SetTimerPeriod	24	static
+fsl_pit.h:288:20:PIT_StartTimer	16	static
+peripherals.c:106:13:PIT_init	8	static
+peripherals.c:122:6:BOARD_InitPeripherals	8	static
+peripherals.c:131:6:BOARD_InitBootPeripherals	8	static
